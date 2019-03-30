@@ -6,3 +6,13 @@ D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.csproj
 D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.dll
 D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.pdb
 D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.xml
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\bin\Debug\MongoAdmin.Logger.dll
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\bin\Debug\MongoAdmin.Logger.pdb
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.dll
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.pdb
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.xml
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.csprojAssemblyReference.cache
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.csproj.CoreCompileInputs.cache
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.csproj.CopyComplete
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.dll
+E:\gitHub\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.pdb

@@ -6,3 +6,13 @@ D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\obj\Debug\MongoAdmin.Models.csproj
 D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\bin\Debug\Newtonsoft.Json.dll
 D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\bin\Debug\Newtonsoft.Json.pdb
 D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\bin\Debug\Newtonsoft.Json.xml
+E:\gitHub\MongoAdmin\MongoAdmin.Models\bin\Debug\MongoAdmin.Models.dll
+E:\gitHub\MongoAdmin\MongoAdmin.Models\bin\Debug\MongoAdmin.Models.pdb
+E:\gitHub\MongoAdmin\MongoAdmin.Models\bin\Debug\Newtonsoft.Json.dll
+E:\gitHub\MongoAdmin\MongoAdmin.Models\bin\Debug\Newtonsoft.Json.pdb
+E:\gitHub\MongoAdmin\MongoAdmin.Models\bin\Debug\Newtonsoft.Json.xml
+E:\gitHub\MongoAdmin\MongoAdmin.Models\obj\Debug\MongoAdmin.Models.csprojAssemblyReference.cache
+E:\gitHub\MongoAdmin\MongoAdmin.Models\obj\Debug\MongoAdmin.Models.csproj.CoreCompileInputs.cache
+E:\gitHub\MongoAdmin\MongoAdmin.Models\obj\Debug\MongoAdmin.Models.csproj.CopyComplete
+E:\gitHub\MongoAdmin\MongoAdmin.Models\obj\Debug\MongoAdmin.Models.dll
+E:\gitHub\MongoAdmin\MongoAdmin.Models\obj\Debug\MongoAdmin.Models.pdb

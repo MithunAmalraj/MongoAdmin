@@ -91,33 +91,10 @@ namespace MongoAdmin.DAL
                 string CollectionName = collResObj.CollectionName;
                 string CollectionDate = "";
 
-                if (CollectionName.Contains("APILogs"))
+                //Logname like SampleLogs20190115
+                if (CollectionName.Contains("SampleLogs"))
                 {
-                    CollectionDate = CollectionName.Replace("APILogs", "");
-                }
-                else if (CollectionName.Contains("BankLogs"))
-                {
-                    CollectionDate = CollectionName.Replace("BankLogs", "");
-                }
-                else if (CollectionName.Contains("DiagnosticLogs"))
-                {
-                    CollectionDate = CollectionName.Replace("DiagnosticLogs", "");
-                }
-                else if (CollectionName.Contains("ExceptionLogs"))
-                {
-                    CollectionDate = CollectionName.Replace("ExceptionLogs", "");
-                }
-                else if (CollectionName.Contains("LogError"))
-                {
-                    CollectionDate = CollectionName.Replace("LogError", "");
-                }
-                else if (CollectionName.Contains("LogNavigation"))
-                {
-                    CollectionDate = CollectionName.Replace("LogNavigation", "");
-                }
-                else if (CollectionName.Contains("PaymentLogs"))
-                {
-                    CollectionDate = CollectionName.Replace("PaymentLogs", "");
+                    CollectionDate = CollectionName.Replace("SampleLogs", "");
                 }
                 else
                 {
