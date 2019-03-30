@@ -1,0 +1,8 @@
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\MongoAdmin.Logger.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\MongoAdmin.Logger.pdb
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.pdb
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\obj\Debug\MongoAdmin.Logger.csprojResolveAssemblyReference.cache
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.pdb
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Debug\Newtonsoft.Json.xml

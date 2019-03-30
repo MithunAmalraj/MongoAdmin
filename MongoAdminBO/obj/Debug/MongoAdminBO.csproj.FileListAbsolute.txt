@@ -1,0 +1,7 @@
+D:\Mithun\Mithun\MongoAdmin\MongoAdminBO\bin\Debug\MongoAdminBO.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdminBO\bin\Debug\MongoAdminBO.pdb
+D:\Mithun\Mithun\MongoAdmin\MongoAdminBO\bin\Debug\MongoAdminDAL.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdminBO\bin\Debug\MongoAdminDAL.pdb
+D:\Mithun\Mithun\MongoAdmin\MongoAdminBO\obj\Debug\MongoAdminBO.csprojResolveAssemblyReference.cache
+D:\Mithun\Mithun\MongoAdmin\MongoAdminBO\obj\Debug\MongoAdminBO.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdminBO\obj\Debug\MongoAdminBO.pdb

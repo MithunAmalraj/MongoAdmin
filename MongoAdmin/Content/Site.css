@@ -1,0 +1,39 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+
+::-webkit-scrollbar {
+    width: 6px;
+	height:6px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    background: #e8e8e8; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #d4d4d4; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+.table-responsive::-webkit-scrollbar {
+    height: 6px;
+}
+.table-responsive::-webkit-scrollbar-track {
+	width:40px
+}
+.pad1left{
+    padding-left:1em;
+}
+.pad1right{
+    padding-right:1em;
+}
+
+.modal-backdrop {
+  z-index: -1;
+  opacity:0 !important;
+}

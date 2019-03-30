@@ -1,0 +1,5 @@
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Release\MongoAdmin.Logger.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\bin\Release\MongoAdmin.Logger.pdb
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\obj\Release\MongoAdmin.Logger.csprojResolveAssemblyReference.cache
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\obj\Release\MongoAdmin.Logger.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Logger\obj\Release\MongoAdmin.Logger.pdb

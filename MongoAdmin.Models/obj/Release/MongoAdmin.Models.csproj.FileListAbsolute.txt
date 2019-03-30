@@ -1,0 +1,5 @@
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\bin\Release\MongoAdmin.Models.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\bin\Release\MongoAdmin.Models.pdb
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\obj\Release\MongoAdmin.Models.csprojResolveAssemblyReference.cache
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\obj\Release\MongoAdmin.Models.dll
+D:\Mithun\Mithun\MongoAdmin\MongoAdmin.Models\obj\Release\MongoAdmin.Models.pdb
