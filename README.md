@@ -15,6 +15,9 @@ Create Collection, Capped Collection
 View Collection
 View Collection Stats
 Drop Collection
+Backup Collection As BSON using MONGODUMP.EXE
+Export Collection As CSV, JSON using MONGOEXPORT.EXE
+Restore Collection To Database using MONGOIMPORT.EXE
 Insert Documents
 View Docuements(Dynamic Column Fetch, Dynamic Search Criteria, Sorting, Pages per Search, Export XLSX, Export CSV)
 Create Index
